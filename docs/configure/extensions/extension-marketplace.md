@@ -332,7 +332,7 @@ You can still use the **Show Recommended Extensions** command to see recommendat
 
 ### Can I trust extensions from the Marketplace?
 
-The {% data variables.product.prodname_vs_marketplace} employs several measures to protect you from malicious extensions and you can also perform various steps to determine if an extension is reliable before installing it. See [Extension runtime security](/docs/configure/extensions/extension-runtime-security.md) to learn how {% data variables.product.prodname_vscode_shortname %} confirms that you trust an extension's publisher before installing it and how to protect yourself from malicious extensions.
+The {% data variables.product.prodname_vs_marketplace %} employs several measures to protect you from malicious extensions and you can also perform various steps to determine if an extension is reliable before installing it. See [Extension runtime security](/docs/configure/extensions/extension-runtime-security.md) to learn how {% data variables.product.prodname_vscode_shortname %} confirms that you trust an extension's publisher before installing it and how to protect yourself from malicious extensions.
 
 ### Can I host extensions internally for my organization?
 
